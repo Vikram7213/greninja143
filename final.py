@@ -2,7 +2,6 @@ import matplotlib
 matplotlib.use('Agg')
 
 from pydantic import BaseModel
-import uvicorn
 import joblib
 import pandas as pd
 import mlflow
