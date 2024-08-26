@@ -6,3 +6,4 @@ mlflow==2.15.1
 streamlit==1.37.1
 numpy==1.26.4
 scikit-learn==1.5.1
+setuptools==69.5.1
